@@ -1,12 +1,12 @@
 Used technologies
 ---------------------
-Java 8 JDK
+- Java 8 JDK
 
-intelliJ
+- intelliJ
 
-Gradle
+- Gradle
 
-Junit
+- Junit
 
 Directory Structure
 -------------------
